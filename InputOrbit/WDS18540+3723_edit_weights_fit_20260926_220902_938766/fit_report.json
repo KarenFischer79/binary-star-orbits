@@ -1,0 +1,124 @@
+{
+  "wds_id": "18540+3723",
+  "method": "scipy least_squares trf, linear loss, one published-orbit start",
+  "objective": "sum(weight * (east_residual_arcsec**2 + north_residual_arcsec**2))",
+  "published_elements": {
+    "designation": "BU 137AB",
+    "period_years": 1135.7351,
+    "semimajor_arcsec": 3.6143,
+    "inclination_deg": 76.953,
+    "node_deg": 177.051,
+    "periastron_epoch": 2080.596,
+    "eccentricity": 0.77425,
+    "omega_deg": 69.393,
+    "grade": "5",
+    "reference": "Izm2019",
+    "uncertainties": [
+      534.7085,
+      1.77418,
+      8.455,
+      6.145,
+      24.2257,
+      0.20302,
+      20.21
+    ]
+  },
+  "optimized_elements": {
+    "designation": "BU 137AB",
+    "period_years": 1096.3804430070907,
+    "semimajor_arcsec": 1.6126500640932462,
+    "inclination_deg": 46.398894076949375,
+    "node_deg": 176.26633011684987,
+    "periastron_epoch": 2305.1414794800858,
+    "eccentricity": 3.5218253575057612e-31,
+    "omega_deg": 77.85445373378268,
+    "grade": "Not assigned",
+    "reference": "Weighted local fit",
+    "uncertainties": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "technique_weights": {
+    "C": 1.0,
+    "Hg": 10.0,
+    "Ht": 7.0,
+    "Ma": 0.1,
+    "Mb": 0.1,
+    "Mc": 0.1,
+    "Mr": 0.1,
+    "S": 7.0,
+    "Sc": 10.0,
+    "Su": 6.0,
+    "Tr": 6.0
+  },
+  "positive_weight_pairs": 134,
+  "zero_weight_pairs": 0,
+  "weighted_sse_before": 0.47548195935350923,
+  "weighted_sse_after": 0.3014158980951417,
+  "weighted_positional_rms_arcsec_before": 0.049842068201043976,
+  "weighted_positional_rms_arcsec_after": 0.03968369571784156,
+  "converged": true,
+  "solver_message": "`xtol` termination condition is satisfied.",
+  "function_evaluations": 121,
+  "jacobian_rank": 7,
+  "active_bounds": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    -1,
+    0
+  ],
+  "bounds": {
+    "period_years": [
+      0.001,
+      10000000.0
+    ],
+    "semimajor_arcsec": [
+      1e-08,
+      100000.0
+    ],
+    "inclination_deg": [
+      0,
+      180
+    ],
+    "eccentricity": [
+      0,
+      0.999999
+    ]
+  },
+  "scipy_version": "1.18.1",
+  "warnings": [
+    "Local solution from the published orbit; global optimum is not established.",
+    "Relative technique weights assume equal east/north precision; no formal parameter uncertainties estimated.",
+    "One or more parameters reached a search bound."
+  ],
+  "filter": {
+    "max_residual_mas": 300.0,
+    "basis": "published orbit, applied once before fitting to historical and additional pairs",
+    "excluded_pairs": 7,
+    "retained_pairs": 134
+  },
+  "historical_input": {
+    "path": "/Users/karenfischer/Documents/Codex/2026-09-18/i-x20/outputs/Orbits/InputOrbit/wds18540+3723_edit.txt",
+    "sha256": "2f64ec4b0df8a51ebcbfff228257b352e30ab77f73494af117559ac615bfe5a5",
+    "snapshot": "historical_input.txt"
+  },
+  "weights_input": {
+    "path": "/Users/karenfischer/Documents/Codex/2026-09-18/i-x20/outputs/Orbits/InputOrbit/WDS18540+3723_edit_weights.csv",
+    "sha256": "77f3d79b94ea36f0529bba53966d54d959271b753ddfa92575661c09f2555833",
+    "snapshot": "weights_input.csv"
+  },
+  "additional_input": {
+    "path": "/Users/karenfischer/Documents/Codex/2026-09-18/i-x20/outputs/Orbits/InputOrbit/TR_WDS18540+3723_addedObservation.csv",
+    "sha256": "719428097bdcbcc413e04236c231dc2653ea37c73e465f4d8fa659b27231ba51",
+    "snapshot": "additional_input.csv"
+  }
+}

@@ -1,0 +1,467 @@
+USNO Double Star data for WDS 18540+3723
+
+Note: the data request software was rewritten in July 2017, following introduction of the WDS supplement. Please see the
+new datarequest.key file for a description of file contents. This effort is still ongoing; your comments regarding
+format, errors, or missing information are welcome.
+
+------------------------------------------------------------------------------------------------------------------------
+
+MEASURES:
+
+BU  137AB    1873 2024  140 140 167   1.5   1.6  8.69  9.02 G5III-IV  -016+045 -016+045 +37 3276  O   185357.56+372249.7
+       1873.44    :140.      .    :  1.5       .        8.     .      8.     .                0.2   1 Bu_1873d Ma   6   
+       1875.33     123.8     .       1.15      .        8.2    .      8.7    .                0.2   4 D__1883  Ma   3   
+       1875.68     123.9     .       1.15      .         .     .       .     .                0.2   4 Sp_1888  Ma   3   
+       1880.44     127.8     .       1.10      .        8.3    .      8.5    .                0.5   2 Bu_1883  Ma V 4   
+       1883.57     130.2     .       1.45      .        8.0    .      8.4    .                0.2   6 Eng1885b Ma   4   
+       1888.776    127.8     .       1.17      .         .     .       .     .                0.3   6 Tar1890  Mb   3   
+       1891.48     129.2     .       1.10      .        8.4    .      8.6    .                0.3   2 Bu_1894  Ma   3   
+       1891.52     131.5     .       1.22      .        8.0    .      8.2    .                0.9   1 Bu_1894  Ma   3   
+       1896.60     132.3     .       1.34      .         .     .       .     .                0.7   3 L__1896a Ma   3   
+       1896.77     136.7     .       1.55      .         .     .       .     .                0.7   1 Bow1896  Ma   3   
+       1897.44     128.2     .       1.47      .         .     .       .     .                0.7   1 Bow1897  Ma   3   
+       1897.46     130.6     .       1.24      .         .     .       .     .                0.7   2 L__1897  Ma   3   
+       1898.47     127.9     .       1.29      .         .     .       .     .                0.7   1 L__1898a Ma   3   
+       1898.591    131.9     .       1.13      .        8.8    .      9.4    .                0.5   3 Doo1901  Ma   3   
+       1898.62     127.3     .       1.29      .         .     .       .     .                0.7   1 Bow1898  Ma   3   
+       1899.44     131.4     .       1.27      .         .     .       .     .                0.7   1 L__1899a Ma   3   
+       1903.730    134.2     .       1.20      .        8.3    .      8.9    .                0.4   1 VBs1904  Ma   3   
+       1904.74     133.1     .       1.35      .         .     .       .     .                0.7   1 L__1904  Ma   3   
+       1905.53     136.7     .       1.28      .        8.3    .      9.2    .                0.5   3 Doo1915b Ma   3   
+       1906.43     130.6     .       1.35      .         .     .       .     .                0.2   1 Frm1907  Ma   3   
+       1906.74     129.2     .       1.44      .         .     .       .     .                0.3   1 Ino1909  Ma   3   
+       1908.59     135.4     .       1.28      .         .     .       .     .                0.2   2 Dob1927  Ma   3   
+       1908.73     135.8     .       1.41      .         .     .       .     .                0.7   1 L__1908  Ma   3   
+       1908.76     135.1     .       1.40      .         .     .       .     .                0.7   2 Bow1908  Ma   3   
+       1910.806    136.7     .       1.24      .         .     .      0.5    .                0.7   1 Bow1911  Ma   7   
+       1911.46     136.8     .       1.16      .         .     .       .     .                0.7   3 Bow1921  Ma   3   
+       1911.77     130.4     .       1.45      .         .     .       .     .                0.7   1 Chp1921  Ma   3   
+       1913.54     139.9     .       1.41      .         .     .       .     .                0.2   3 Dob1927  Ma   3   
+       1913.628    137.1     .       1.50      .         .     .       .     .                0.5   4 Fox1925  Ma   3   
+       1915.78     138.0     .       1.37      .        7.6    .      8.3    .                0.3   4 Lv_1930  Ma   3   
+       1919.66     139.3     .        .        .        8.0    .      8.2    .                0.3   1 Lv_1930  Ma   3   
+       1919.71     139.1     .       1.32      .        8.0    .      8.3    .                0.3   4 Lv_1930  Ma   3   
+       1921.57     136.9     .       1.42      .         .     .       .     .                0.2   3 Dob1927  Ma   3   
+       1921.71     138.7     .        .        .         .     .       .     .                0.3   8 Kpz1924  Ma   3   
+       1922.63     136.4     .       1.20      .         .     .       .     .                0.7   2 Fur1925  Ma   3   
+       1922.77     138.4     .       1.49      .        8.0    .      8.3    .                0.3   3 Lv_1930  Ma   3   
+       1923.16     139.5     .       1.30      .         .     .       .     .                0.7   2 Jck1925  Ma   3   
+       1923.55     138.1     .       1.59      .         .     .       .     .                0.7   1 Bal1924  Ma   3   
+       1923.56     137.6     .       1.41      .         .     .       .     .                0.7   1 Cul1925  Ma   3   
+       1923.81     137.4     .       1.42      .        8.2    .      8.4    .                0.3   1 Lv_1930  Ma   3   
+       1924.54     137.9     .       1.30      .         .     .      0.5    .                0.3   5 B__1925a Ma   3   
+       1924.64     142.3     .       1.25      .         .     .       .     .                0.3   3 Prz1926  Ma   3   
+       1924.70     142.8     .       1.46      .        8.2    .      8.7    .                0.4   2 Gcb1934  Ma   0   
+       1924.74     139.7     .       1.56      .        8.0    .      8.4    .                0.3   2 Lv_1930  Ma   3   
+       1924.79     142.6     .       1.30      .         .     .       .     .                0.3   1 Fat1941  Ma   0   
+       1925.57     135.8     .       1.81      .         .     .       .     .                0.2   2 Sch1927b Ma   3   
+       1925.57     140.8     .       1.39      .        8.0    .      8.3    .                0.3   2 Lv_1930  Ma   3   
+       1925.58     137.2     .       1.55      .         .     .       .     .                0.7   1 Plq1926b Ma   3   
+       1925.58     140.9     .       1.53      .        7.9    .      8.3    .                0.3   5 Ber1924  Ma   3   
+       1926.60     141.8     .       1.44      .        8.0    .      8.4    .                0.3   5 Ber1927  Ma   3   
+       1926.82     141.4     .       1.33      .        8.4    .      8.7    .                0.3   1 Lv_1930  Ma   3   
+       1927.73     142.7     .       1.26      .         .     .       .     .                0.3   2 Fat1941  Ma   0   
+       1931.73     143.1     .       1.37      .         .     .       .     .                0.3   3 Bon1938  Ma   0   
+       1933.74     142.0     .       1.31      .         .     .       .     .                0.3   3 Baz1936e Ma   0   
+       1935.70     143.6     .       1.48      .        8.2    .      8.7    .                0.3   5 Rab1939  Ma   0   
+       1936.60     143.5     .       1.29      .        8.2    .      8.7    .                0.7   1 New1936  Ma   0   
+       1936.63     141.2     .       1.42      .        8.2    .      8.7    .                0.7   4 Sym1936  Ma   0   
+       1937.75     139.6     .       1.37      .        8.2    .      8.7    .                0.7   1 Sym1937  Mc   0   
+       1938.72     144.2     .       1.44      .         .     .       .     .                0.3   7 Rab1939  Ma   0   
+       1939.63     144.5     .       1.49      .        8.2    .      8.7    .                0.3   5 Scd1940a Ma   0   
+       1941.57     143.6     .       1.46      .         .     .       .     .                0.5   3 Brt1949  Ma   0   
+       1941.88     143.2     .       1.45      .         .     .       .     .                0.3   4 Rab1953  Ma   0   
+       1942.71     144.7     .       1.43      .         .     .       .     .                0.3   4 Rab1953  Ma   0   
+       1944.35     146.7     .       1.23      .         .     .       .     .                0.6   3 Vou1955  Ma   0   
+       1948.71     147.4     .       1.51      .         .     .       .     .                0.3   5 Rab1961b Ma   0   
+       1949.49     145.0     .       1.27      .        8.2    .      8.7    .                0.3   3 Fok1951  Ma   0   
+       1950.47     146.0     .       1.12      .        8.2    .      8.7    .                0.3   2 Fok1951  Ma   0   
+       1951.72     145.8     .       1.48      .         .     .       .     .                0.3   8 Rab1961b Ma   0   
+       1955.62     147.9     .       1.37      .        8.4    .      8.6    .                0.7   3 Dju1955c Ma   0   
+       1955.62     149.5     .       1.36      .         .     .       .     .                0.3   4 Wor1957  Ma   0   
+       1958.58     150.2     .       1.60      .         .     .       .     .                0.7   2 Dic1959  Ma   0   
+       1958.67     151.0     .       1.38      .         .     .       .     .                0.7   4 Pau1959  Ma   0   
+       1958.69     151.4     .       1.34      .         .     .       .     .                0.7   4 Hnz1959a Ma   0   
+       1959.60     143.7     .       1.77      .         .     .       .     .                0.3   2 Arc1960  Ma   0   
+       1959.62     152.1     .       1.40      .         .     .       .     .                0.7   4 Hnz1963  Ma   1   
+       1959.65     149.3     .       1.57      .         .     .       .     .                0.7   4 Pau1963  Ma   1   
+       1959.66     150.0     .       1.36      .         .     .       .     .                0.7   4 JDH1961  Mr   1   
+       1959.68     151.3     .       1.21      .         .     .       .     .                0.7   1 Dic1963a Ma   1   
+       1960.03     150.4     .       1.45      .         .     .       .     .                0.7   6 Cdy1961  Mr   1   
+       1961.58     150.5     .       1.34      .        8.4    .      8.8    .                0.3   5 B__1962a Ma   1   
+       1961.60     151.3     .       1.46      .         .     .       .     .                0.3   4 Hei1963b Ma   1   
+       1961.648    151.2     .       1.41      .         .     .      0.2    .                0.7   3 Wor1967b Ma   2   
+       1961.66     149.4     .       1.48      .         .     .       .     .                0.7   4 Pau1963  Ma   1   
+       1961.71     150.8     .       1.41      .         .     .       .     .                0.7   4 Lan1963  Ma   1   
+       1961.72     150.0     .       1.37      .         .     .       .     .                0.7   3 Hnz1963  Ma   1   
+       1961.726    148.4     .       1.50      .         .     .       .     .                0.7   6 Jkn1964  Mc   2   
+       1962.638    152.2     .       1.40      .         .     .       .     .                0.7   4 Hnz1966  Ma   2   
+       1962.638    150.4     .       1.38      .         .     .       .     .                0.7   4 Lan1966  Ma   2   
+       1962.644    150.9     .       1.48      .         .     .       .     .                0.7   4 Pau1966  Ma   2   
+       1964.621    151.0     .       1.48      .         .     .       .     .                0.7   4 Pau1966  Ma   2   
+       1964.633    151.2     .       1.36      .         .     .       .     .                0.7   6 Hnz1966  Ma   2   
+       1965.72     151.5     .       1.46      .         .     .       .     .                0.3   4 Hei1967b Ma   2   
+       1965.797    153.4     .       1.44      .         .     .       .     .                0.3   4 Wak1966  Ma   2   
+       1967.456    150.7     .       1.35      .        8.2    .      8.6    .                0.7   3 Zul1969a Ma   2   
+       1967.459    149.6     .       1.42      .        8.8    .      8.9    .                0.7   1 Dju1969  Ma   2   
+       1967.561    150.5     .       1.52      .        8.6    .      8.8    .                0.7   2 Pop1969a Ma   2   
+       1971.442    154.3     .       1.34      .        8.2    .      8.7    .                0.7   1 Ole1973  Ma   2   
+       1971.517    153.5     .       1.55      .         .     .      0.3    .                0.9   4 Wak1972  Ma   2   
+       1972.133    153.0     .       1.44      .         .     .      0.3    .                0.7   4 Wor1978  Ma   2   
+       1973.70     154.6     .       1.35      .        8.3    .      8.7    .                0.7   2 Zul1976  Ma   2   
+       1976.13     153.7     .       1.50      .         .     .      0.4    .                0.7   2 Pop1977b Ma   2   
+       1977.475    153.9     .       1.51      .         .     .      0.4    .                0.9   2 Hln1978b Ma   2   
+       1980.59     155.3     .       1.51      .         .     .       .     .                0.6   2 Hei1983a Ma   2   
+       1980.723    156.2     .       1.35      .        8.3    .      8.7    .                0.7   1 Zul1982b Ma   2   
+       1982.729    156.9     .       1.60      .         .     .       .     .                0.3   3 Mss1985  Ma   4   
+       1983.844    157.7     .       1.46      .         .     .      0.3    .                0.7   5 Pop1986c Ma   4   
+       1985.550    156.1     .       1.50      .         .     .      0.4    .                0.7   4 Pop1988  Ma   4   
+       1985.790    155.9     .       1.44      .        8.2    .      8.7    .                0.7   4 Zul1988b Ma   4   
+       1988.572    157.6     .       1.68      .        8.0    .      8.3    .                0.7   2 Pop1989a Ma   4   
+       1988.572    157.7     .       1.54      .        8.2    .      8.4    .                0.7   2 Zul1989a Ma   4   
+       1991.525    157.5     .    :  1.55    P .         .     .      0.5    .     550  89    0.7   1 WSI1997  Su P 4   
+       1991.61     157.5     .       1.529     .        8.694 0.014   9.018 0.017  530 100    0.3   1 TYC2000a Ht   5   
+       1991.61        .      .        .        .        9.494 0.020   9.772 0.024  430  90    0.3   1 TYC2000a Ht   7   
+       1991.658    158.8    0.5   :  1.55     0.01       .     .       .     .     550  89    0.7   5 WSI1997  Su P 4   
+       1991.740    159.2     .    :  1.59    P .         .     .       .     .     550  89    0.7   1 WSI1997  Su P 4   
+       1994.717    158.6     .    :  1.56    P .        8.2    .      8.7    .     545  85    0.7   1 WSI1999a Su P 5   
+       1995.670    159.9    0.0   :  1.56     0.02      8.2    .      8.7    .     560  45    0.7   2 WSI1999b Su P 5   
+       1996.586    159.9     .       1.48      .         .     .      0.5    .                0.7   1 Gii1997  C    5   
+       1996.634    159.5    0.3   :  1.55     0.02       .     .       .     .     556    a   0.7   4 WSI1999b Su P 5   
+       1997.4716   160.5     .       1.556     .         .     .       .     .     549  22    2.5   1 Msn2026  Sc   7   
+       1997.625    160.0    0.7   :  1.52     0.00       .     .       .     .     545  85    0.7   3 WSI1999c Su P 5   
+       1998.58     159.0     .       1.52      .         .     .      0.32   .     700 220    1.5   2 ADP2004  C    6   
+       2001.74     162.6     .       1.43      .         .     .       .     .                0.2   4 Ctt2002  Mb   6   
+       2005.533    161.3     .       1.55      .         .     .      0.4    .                0.5   1 Slm2009  C    7   
+       2005.792    161.6    0.3      1.534    0.017      .     .       .     .     644  70    1.0   1 Sca2008a S    7   
+       2007.697    162.4    0.5      1.571    0.011      .     .       .     .     644  70    1.0   1 Sca2010c S    7   
+       2008.688    162.5     .       1.550     .         .     .       .     .     530 340    0.7   1 Gii2012  S    7   
+       2009.415    162.6     .       1.582     .         .     .       .     .     720 420    0.4   1 Los2010  S    7   
+       2009.614    162.4    0.3      1.552    0.008      .     .       .     .     650 420    1.0   1 Sca2011a S    7   
+       2011.724    163.3    0.6      1.507    0.016      .     .       .     .     644  70    1.0   1 Sca2013c S    7   
+       2013.676    163.6    0.4      1.509    0.024      .     .       .     .     644  70    1.0   1 Sca2015b S    7   
+       2015.5      164.062  0.003    1.58300  0.00007   8.468 0.001   8.821 0.001  673 440    1.0   1 Mug2020  Hg   7   
+       2015.50     163.2     .       1.62      .         .     .       .     .                0.3   1 StJ2015  S  P 7   
+       2015.585    164.2    0.3      1.574    0.008      .     .       .     .     550 200    0.8   1 Pru2023  S    7   
+       2015.585    164.4    0.3      1.575    0.018      .     .      1.77  0.2    550 200    0.8   1 Pru2023  S    7   
+       2015.663    168.6     .       1.52      .         .     .       .     .                0.3   1 Smr2016  C    7   
+       2016.0      164.18   0.00     1.58405  0.00002   8.488  .      8.842  .     584 436    1.0   1 ElB2021  Hg   7   
+       2016.0         .      .        .        .        7.818  .      8.022  .     759 294    1.0   1 ElB2021  Hg   7   
+       2016.0         .      .        .        .        8.604  .      8.889  .     502 228    1.0   1 ElB2021  Hg   7   
+       2019.875    165.311  2.       1.593    0.006      .     .      0.73  0.2    832  40    3.5   1 Hwl2021  S    7   
+       2019.875    165.670  2.       1.587    0.006      .     .      1.04  0.2    562  54    3.5   1 Hwl2021  S    7   
+       2020.609   q202.6    0.5      1.074    0.01       .     .      0.93  0.5    562  54    8.0   1 Lst2021  S    7   
+       2020.609   q202.7    0.5      1.284    0.01       .     .      0.85  0.5    832  40    8.0   1 Lst2021  S    7   
+       2022.3288   166.52    .       1.566     .         .     .      0.44   .     850        3.6   1 Clf2022  S    7   
+       2024.477    166.5    0.926    1.599    0.005      .     .       .     .                0.4   2 FSU2025  C  P 7   
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+ORBITAL ELEMENTS:
+
+                  ------P-------  ---a------  --i-----  Node----  -----T-------  -e------  omega---   G  Reference
+BU  137AB          1135.7351    y    3.6143 a   76.953   177.051    2080.5960  y  0.77425    69.393   5  Izm2019 
+               +/-  534.7085         1.77418     8.455     6.145      24.2257     0.20302    20.210 
+
+
+ORBITAL EPHEMERIDES:
+
+Name            Grade  Reference   Theta   Rho      Theta   Rho      Theta   Rho      Theta   Rho  
+                                       2025.0           2026.0           2027.0           2028.0   
+BU  137AB         5    Izm2019     166.3   1.517    166.6   1.513    166.8   1.508    167.1   1.503
+
+------------------------------------------------------------------------------------------------------------------------
+
+REFERENCES:
+
+ADP2004      Abad, C., Docobo, J.A., Lanchares, V., Lahulla, J.F., Abelleira, P., Blanco, J., &  2004A&A...416..811A
+             Alvarez, C.                                                                                            
+             A&A 416, 811, 2004                                                                                     
+Arc1960      Archer, S.                                                                          1960JBAA...70..354A
+             J. British Astron. Assoc. 70, 354, 1960                                                                
+B__1925a     van den Bos, W.H.                                                                   1925AnLei..143...1V
+             Ann. Leiden Obs. 14, Pt.3, 1925                                                                        
+B__1962a     van den Bos, W.H.                                                                   1962AJ.....67..141V
+             AJ 67, 141, 1962                                                                                       
+Bal1924      Baillaud, R.                                                                        1924JO......7..117B
+             J. Obs. 7, 117, 1924                                                                                   
+Baz1936e     Baize, P.                                                                           1936JO.....19..211B
+             J. Obs. 19, 211-220, 1936                                                                              
+Ber1924      Berman, L.                                                                          1924AJ.....36..115B
+             AJ 36, 115, 1924                                                                                       
+Ber1927      Berman, L.                                                                          1927AJ.....38...37B
+             AJ 38, 37, 1927                                                                                        
+Bon1938      Bonnet, R.                                                                          .                  
+             Paris Obs. 1938                                                                                        
+Bow1896      Bowyer, W.M.                                                                        1896RGOO...........
+             Greenwich Observations, 1896      (data also in MNRAS 59, 400, 1899)                1899MNRAS..59..400.
+Bow1897      Bowyer, W.M.                                                                        1897RGOO...........
+             Greenwich Observations, 1897                                                                           
+Bow1898      Bowyer, W.M.                                                                        1898RGOO...........
+             Greenwich Observations, 1898                                                                           
+Bow1908      Bowyer, W.M.                                                                        1908RGOO...........
+             Greenwich Observations, 1908      (data also in MNRAS 69, 588, 1909)                1909MNRAS..69..588.
+Bow1911      Bowyer, W.M.                                                                        1911MNRAS..71..728.
+             MNRAS 71, 728, 1911                                                                                    
+Bow1921      Bowyer, W.M.                                                                        .                  
+             Greenwich Cat. of Double Stars, 1921                                                                   
+Brt1949      Barton, S.G.                                                                        1949PFAO....7a...1B
+             Pub. Univ. Penn. 7, Pt.1, Sec.1, 1949                                                                  
+Bu_1873d     Burnham, S.W.                     (BU  107 -  182)                                  1873MNRAS..34...59B
+             MNRAS 34, 59, 1873                                                                                     
+Bu_1883      Burnham, S.W.                     (BU  864 - 1025)                                  1883MmRAS..47..167B
+             MemRAS 47, 167, 1883                                                                                   
+Bu_1894      Burnham, S.W.                                                                       1894PLicO...2....3B
+             Pub. Lick Obs. 2, 3, 1894         (includes most data from Bu_1893a)                1893AN....131..329B
+Cdy1961      Candy, M.P.                                                                         1961RGOB...38..207W
+             R. Obs. Bull. Ser.E, #38, 1961                                                                         
+Chp1921      Chapman, S.                                                                         .                  
+             R. Obs. Greenwich, Cat. Double Stars, 1921                                                             
+Clf2022      Calef, B. & Naderi, S.                                                              .                  
+             AMOS Proceedings, 519, 2022                                                                            
+             Crean Lutheran High School                                                                             
+Ctt2002      Courtot, J.-F.                                                                      ...................
+             Webb Soc., Double Star Circ. 10, 2002                                                                  
+Cul1925      Cullen, R.T.                                                                        1925RGOO.....c...5.
+             Greenwich Observations, C5, 1925                                                                       
+D__1883      Dembowski, H.                                                                       ...................
+             Misure micrometriche di Stelle Doppie e multiple...                                                    
+             (Rome, Coi tipi del Salviucci), vol. I, 1883                                                           
+Dic1959      Dick, J.                                                                            1959VeBB....2.....D
+             Pub. Berlin Babelsberg Obs. 13, Pt.2, 1959                                                             
+Dic1963a     Dick, J.                                                                            1963VeBB....4.....D
+             Pub. Berlin Babelsberg Obs. 14, Pt.4, 1963                                                             
+Dju1955c     Djurkovic, P.                                                                       1955BOBeo..20....3D
+             Bull. Obs. Astron. Belgrade 20, #3-4, 3, 1955                                                          
+Dju1969      Djurkovic, P.                                                                       1969BOBeo..27....1D
+             Bull. Obs. Astron. Belgrade 27, #1, 1, 1969                                                            
+Dob1927      Doberck, W.A.                                                                       1927QB821.D6.......
+             Erganz. AN 7, 1927                                                                                     
+             (catalog of measures 1875-1927; includes nearly all measures from earlier papers)                      
+Doo1901      Doolittle, E.                                                                       1901PFAO....1c...1D
+             Pub. Univ. Penn. 1, Pt. 3, 1901                                                                        
+Doo1915b     Doolittle, E.                                                                       1915PFAO....4a...1D
+             Pub. Univ. Penn. 4, Pt. 1, 1915                                                                        
+ElB2021      El-Badry, K., Rix, H.-W. & Heintz, T.M.                                             2021MNRAS.506.2269E
+             MNRAS 506, 2269, 2021                                                                                  
+Eng1885b     Engelmann, R.                                                                       1885AN....112..193E
+             AN 112, 193, 1885                                                                                      
+Fat1941      Fatou, P.                                                                           1941JO.....24...29F
+             J. Obs. 24, 29, 1941                                                                                   
+Fok1951      Fokker, A.D.                                                                        1951BAN....11..365F
+             BAN 11, 365, 1951                                                                                      
+Fox1925      Fox, P.                                                                             1925AnDea...2....1F
+             Ann. Dearborn Obs. 2, 1, 1925                                                                          
+Frm1907      Farman, M.                                                                          .                  
+             Obs. de Chevreuse, 1907                                                                                
+FSU2025      Shetty, D., Vasquez, F., Boyce, P., Boyce, G. & Harris, M.                          2025JDSO...21...45S
+             JDSO 21, 45, 2025                                                                                      
+Fur1925      Furner, H.                                                                          1925RGOO.....c...5.
+             Greenwich Observations, C5, 1925                                                                       
+FyM2013b     Fay, M.                                                                             .                  
+             Il Bollettino Delle Stelle Doppie 5, 10, 2013                                                          
+Gcb1934      Giacobini, M.                                                                       .                  
+             Mesures d'etoiles doubles faites a l'Observatoire de Paris, 1934  [QB821.G4]                           
+Gii1997      Gili, R. & Couteau, P.                                                              1997A&AS..126....1G
+             A&AS 126, 1, 1997                                                                                      
+Gii2012      Gili, R. & Prieur, J.-L.                                                            2012AN....333..727G
+             AN 333, 727, 2012                                                                                      
+Hei1963b     Heintz, W.D.                                                                        1963JO.....46....1H
+             J. Obs. 46, 1, 1963                                                                                    
+Hei1967b     Heintz, W.D.                                                                        1967JO.....50..343H
+             J. Obs. 50, 343, 1967                                                                                  
+Hei1983a     Heintz, W.D.                                                                        1983ApJS...51..249H
+             ApJS 51, 249, 1983                                                                                     
+Hln1978b     Holden, F.                                                                          1978PASP...90..465H
+             PASP 90, 465, 1978                                                                                     
+Hnz1959a     Hintze, K.H.                                                                        1959VeBB....2.....H
+             Pub. Berlin Babelsberg Obs. 13, Pt.2, 1959                                                             
+Hnz1963      Hintze, K.H.                                                                        1963VeBB....4.....H
+             Pub. Berlin Babelsberg Obs. 14, Pt.4, 1963                                                             
+Hnz1966      Hintze, K.H.                                                                        1966VeBB....4.....H
+             Pub. Berlin Babelsberg Obs. 15, Pt.4, 1966                                                             
+Hwl2021      Howell, S.B., Matson, R.A., Ciardi, D.R., Everett, M.E., Livingston, J.H., Scott,   2021AJ....161..164H
+             N.J., Horch, E.P. & Winn, J.N.                                                                         
+             AJ 161, 164, 2021                                                                                      
+Ino1909      Ichinohe, N.                                                                        .                  
+             Ann. Tokyo Obs. 3, Pt.5, 1909                                                                          
+Izm2019      Izmailov, I.S.                                                                      2019AstL...45...30I
+             Ast. Lett. 45, 30, 2019                                                                                
+             (Orbital elements from weighted solutions used when available (Table 2),                               
+              unweighted elements (Table 1) used for remaining 29 systems.)                                         
+Jck1925      Jackson, J.                                                                         1925RGOO.....c...5.
+             Greenwich Observations, C5, 1925                                                                       
+JDH1961      Jones, D.H.                                                                         1961RGOB...38..207W
+             R. Obs. Bull. Ser.E, #38, 1961                                                                         
+Jkn1964      Jackson, P.                                                                         1964MiWie..12....5J
+             Mitt. Sternw. Wien 12, #5, 1964                                                                        
+Kpp2018m     Knapp, W.R.A. & Nanson, J.                                                          2018JDSO...14..503K
+             JDSO 14, 503, 2018                                                                  .                  
+Kpz1924      Krumpholtz, H.                                                                      1924AN....222....7K
+             AN 222, 7, 1924                                                                                        
+L__1896a     Lewis, T.                                                                           1896RGOO...........
+             Greenwich Observations, 1896      (data also in MNRAS 59, 400, 1899)                1899MNRAS..59..400.
+L__1897      Lewis, T.                                                                           1897RGOO...........
+             Greenwich Observations, 1897                                                                           
+L__1898a     Lewis, T.                                                                           1898RGOO...........
+             Greenwich Observations, 1898                                                                           
+L__1899a     Lewis, T.                                                                           1899RGOO...........
+             Greenwich Observations, 1899      (data also in MNRAS 60, 494, 1900)                1900MNRAS..60..494.
+L__1904      Lewis, T.                                                                           1904RGOO...........
+             Greenwich Observations, 1904      (data also in MNRAS 66, 17, 1905)                 1905MNRAS..66...17L
+L__1908      Lewis, T.                                                                           1908RGOO...........
+             Greenwich Observations, 1908      (data also in MNRAS 69, 588, 1909)                1909MNRAS..69..588.
+Lan1963      Lange, M.                                                                           1963VeBB....4.....L
+             Pub. Berlin Babelsberg Obs. 14, Pt.4, 1963                                                             
+Lan1966      Lange, M.                                                                           1966VeBB....4.....L
+             Pub. Berlin Babelsberg Obs. 15, Pt.4, 1966                                                             
+Los2010      Losse, F.                                                                           2010O&T....75...17L
+             Obs. et Travaux 75, 17, 2010                                                                           
+Lst2021      Lester, K.V, Matson, R.A., Howell, S.B., Furlan, E., Gnilka, C.L., Scott, N.J.,     2021AJ.....162..75L
+             Ciardi, D.C, Everett, M.E., Hartman, Z.D. & Hirsch, L.A.                                               
+             AJ 162, 75, 2021                                                                                       
+Lv_1930      Leavenworth, F.P. & Beal, W.O.                                                      1930QB821.L4.......
+             Meaures of Double Stars (Minneapolis, Univ. Minnesota Press), 1930                                     
+Msn2026      Mason, B.D. & Hartkopf, W.I.                                                        ...................
+             AJ 171, 149, 2026                                                                                      
+Mss1985      Massone, G.                                                                         1985A&AS...60..485M
+             A&AS 60, 485, 1985                                                                                     
+Mug2020      Mugrauer, M. & Michel, K.-U.                                                        2020AN....341..996M
+             AN 341, 996, 2020                                                                                      
+                New pairs added with their TOI # or with a CTI designation (last 4 digits)                          
+New1936      Newton, H.W.                                                                        1936RGOO.....b..79.
+             Greenwich Observations, B79, 1936                                                                      
+             (Note: Author also published measures corrected for purported systematic effects.                      
+             However, only the uncorrected measures have been tabulated in the catalog.)                            
+Ole1973      Olevic, D.                                                                          1973BOBeo..29...37O
+             Bull. Obs. Astron. Belgrade 29, 37, 1973                                                               
+Pau1959      Pauscher, H.                                                                        1959VeBB....2.....P
+             Pub. Berlin Babelsberg Obs. 13, Pt.2, 1959                                                             
+Pau1963      Pauscher, H.                                                                        1963VeBB....4.....P
+             Pub. Berlin Babelsberg Obs. 14, Pt.4, 1963                                                             
+Pau1966      Pauscher, H.                                                                        1966VeBB....4.....P
+             Pub. Berlin Babelsberg Obs. 15, Pt.4, 1966                                                             
+Plq1926b     Paloque, E.                                                                         1926JO......9..129P
+             J. Obs. 9, 129, 1926                                                                                   
+Pop1969a     Popovic, G.M.                                                                       1969BOBeo..27....1P
+             Bull. Obs. Astron. Belgrade 27, #1, 1, 1969                                                            
+Pop1977b     Popovic, G.M.                                                                       1977BOBeo.128...37P
+             Bull. Obs. Astron. Belgrade #128, 37, 1977                                                             
+Pop1986c     Popovic, G.M.                                                                       1986BOBeo.136...84P
+             Bull. Obs. Astron. Belgrade #136, 84, 1986                                                             
+Pop1988      Popovic, G.M.                                                                       1988BOBeo.138...55P
+             Bull. Obs. Astron. Belgrade #138, 55, 1988                                                             
+Pop1989a     Popovic, G.M.                                                                       1989BOBeo.140...83P
+             Bull. Obs. Astron. Belgrade #140, 83, 1989                                                             
+Pru2023      Prieur, J.-L., Gili, R., Rivet, J.-P., Vakili, F., Scardia, M., Pansecchi, L.,      2023AN....34430112P
+             Argyle, R.W., Ling, J.F., Piccotti, L., Aristidi, E., Koechlin, L., Bonneau, D.,                       
+             Maccarini, L. & Serot, J.                                                                              
+             AN 344, 30112, 2023                                                                                    
+Prz1926      Przbyllok, E., Labitzke, P., & Meier, P.                                            .                  
+             Beob. Sternw. Koenigsberg #44, 1926                                                                    
+Rab1939      Rabe, W.                                                                            1939PMunO...2....1R
+             Pub. Munich Obs. 2, #1, 1939                                                                           
+             (Note: Author also published measures corrected for purported systematic effects.                      
+             However, only the uncorrected measures have been tabulated in the catalog.)                            
+Rab1953      Rabe, W.                                                                            1953QB821.R3.......
+             Erganz. AN 12, #3, 1953                                                                                
+             (Note: Author also published measures corrected for purported systematic effects.                      
+             However, only the uncorrected measures have been tabulated in the catalog.)                            
+Rab1961b     Rabe, W.                                                                            1961PMunO...6....2R
+             Pub. Munich Obs. 6, #2, 1961                                                                           
+             (Note: Author also published measures corrected for purported systematic effects.                      
+             However, only the uncorrected measures have been tabulated in the catalog.)                            
+Sca2008a     Scardia, M., Prieur, J.-L., Pansecchi, L., Argyle, R.W., Sala, M., Basso, S.,       2008AN....329...54S
+             Ghigo, M., Koechlin, L., & Aristidi, E.                                                                
+             AN 329, 54, 2008                                                                                       
+Sca2010c     Scardia, M., Prieur, J.-L., Pansecchi, L., Argyle, R.W., & Sala, M.                 2010AN....331..286S
+             AN 331, 286, 2010                                                                                      
+Sca2011a     Scardia, M., Prieur, J.-L., Pansecchi, L., Argyle, R.W., & Sala, M.                 2011AN....332..508S
+             AN 332, 508, 2011                                                                                      
+Sca2013c     Scardia, M., Prieur, J.-L., Pansecchi, L., Argyle, R.W., Spano, P., Riva, M.,       2013MNRAS.434.2803S
+             & Landoni, M.                                                                                          
+             MNRAS 434, 2803, 2013                                                                                  
+Sca2015b     Scardia, M., Prieur, J.-L., Pansecchi, L., Argyle, R., Zanutta, A., & Aristidi, E.  2015AN....336..388S
+             AN 336, 388, 2015                                                                                      
+Scd1940a     Schmeidler, F.                                                                      1940AN....270..234S
+             AN 270, 234, 1940                                                                                      
+Sch1927b     Schembor, F.                                                                        1927AN....230..329S
+             AN 230, 329, 1927                                                                                      
+Sdr9999      Sanders, W.L.                                                                       ...................
+             Unpublished (http://ad.usno.navy.mil/wds/wdstext.html#unpublished)                                     
+             = San Diego International High School                                                                  
+Slm2009      Viala, J., Salaman, M., Agati, J.L., Gili, R., & Bonneau, D.                        2009O&T....72...21V
+             Obs. et Travaux 72, 21, 2009                                                                           
+Smr2013      Schlimmer, J.S.                                                                     2013JDSO....9..230S
+             JDSO 9, 230, 2013                                                                                      
+Smr2016      Schlimmer. J.S.                                                                     2016JDSO...12..442S
+             JDSO 12, 442, 2016                                                                                     
+Sp_1888      Schiaparelli, G.                                                                    1888QB4.M63n33.....
+             Pub. Brera Milan #33, 1888                                                                             
+StJ2015      Serot, J.                                                                           2015JDSO...11..361S
+             JDSO 11, 361, 2015                                                                                     
+Sym1936      Symms, L.S.T.                                                                       1936RGOO.....b..79.
+             Greenwich Observations, B79, 1936                                                                      
+Sym1937      Symms, L.S.T.                                                                       1937RGOO.....b...1.
+             Greenwich Observations, B1, 1937                                                                       
+Tar1890      Tarrant, K.J.                                                                       1890AN....125..225T
+             AN 125, 225, 1890                                                                                      
+TMA2003      2MASS Catalog                                                                       .                  
+             2MASS Point Src Cat., 2003 all-sky release (http://pegasus.phast.umass.edu/)                           
+             (Note: 2MASS photometry also added by cataloguer to 2MASS astrometry published                         
+             under other references.)                                                                               
+             Thurgood Marshall High School                                                                          
+TYC2000a     Hog, E., Fabricius, C., Makarov, V.V., Urban, S., Corbin, T., Wycoff, G., Bastian,  2000A&A...357..367H
+             U., Schwekendiek, P., & Wicenec, A.                                                                    
+             Tycho-2 Cat., A&A 357, 367, 2000                                                                       
+UC_2013b     Hartkopf, W.I., Mason, B.D., Finch, C.T., Zacharias, N., Wycoff, G.L., & Hsu, D.    2013AJ....146...76H
+             AJ 146, 76, 2013                  (UC 301 - 5058)                                                      
+             (Relative astrometry is derived from individual measurements, not precessed means.                     
+             UCAC aperture magnitudes are listed, unless the duplicity flag indicates a blended                     
+             image (a flag value of 30 or higher). Model fit magnitudes are given for both                          
+             components if either has such a flag. Model fit magnitudes are indicated by the                        
+             letter "f" following the filter information.                                                           
+             APASS photometry extracted from UCAC4 catalog is listed under reference AAV2012.                       
+             Due to aperture method used, APASS photometry is only included for pairs wider                         
+             than 10" (Henden, private comm.) Photometry for pairs wider than 10" which showed                      
+             identical values for both components in all filters were removed, as well.                             
+VBs1904      Van Biesbroeck, G.                                                                  1904AnOB....9....1V
+             Ann. R. Obs. Belgium 9, 1904                                                                           
+Vou1955      Voute, J.G.                                                                         1955JO.....38..109V
+             J. Obs. 38, 109, 1955             (a few errata noted in Vou1956)                                      
+Wak1966      Walker, R.L.                                                                        1966PUSNO..18....1W
+             Pub. USNO 18, Pt.4, 1966                                                                               
+Wak1972      Walker, R.L.                                                                        1972PUSNO..22....1W
+             Pub. USNO 22, Pt.5, 1972                                                                               
+Wal1947      Wallenquist, A.                                                                     1947UppAn...2....2W
+             Ann. Uppsala Astron. Obs. 2, No.2, 1947                                                                
+             (A catalogue containing results of the two prior series, plus additional measures                      
+             with the 14-inch refractor and wedge photometer)                                                       
+Wor1957      Worley, C.E.                                                                        1957AJ.....62..153W
+             AJ 62, 153, 1957                                                                                       
+Wor1967b     Worley, C.E.                                                                        1967PUSNO..18....1W
+             Pub. USNO 18, Pt. 6, 1967                                                                              
+Wor1978      Worley, C.E.                                                                        1978PUSNO..24....1W
+             Pub. USNO 24, Pt. 6, 1978                                                                              
+WSI1997      Douglass, G.G., Hindsley, R.B., & Worley, C.E.                                      1997ApJS..111..289D
+             ApJS 111, 289, 1997                                                                                    
+WSI1999a     Germain, M.E., Douglass, G.G., & Worley, C.E.                                       1999AJ....117.1905G
+             AJ 117, 1905, 1999                                                                                     
+WSI1999b     Germain, M.E., Douglass, G.G., & Worley, C.E.                                       1999AJ....117.2511G
+             AJ 117, 2511, 1999                                                                                     
+WSI1999c     Douglass, G.G., Mason, B.D., Germain, M.E., & Worley, C.E.                          1999AJ....118.1395D
+             AJ 118, 1395, 1999                                                                                     
+Zul1969a     Zulevic, D.J.                                                                       1969BOBeo..27....1Z
+             Bull. Obs. Astron. Belgrade 27, #1, 1, 1969                                                            
+Zul1976      Zulevic, D.J.                                                                       1976BOBeo.127...20Z
+             Bull. Obs. Astron. Belgrade #127, 20, 1976                                                             
+Zul1982b     Zulevic, D.J.                                                                       1982BOBeo.132...25Z
+             Bull. Obs. Astron. Belgrade #132, 25, 1982                                                             
+Zul1988b     Zulevic, D.J.                                                                       1988BOBeo.138...63Z
+             Bull. Obs. Astron. Belgrade #138, 63, 1988                                                             
+Zul1989a     Zulevic, D.J.                                                                       1989BOBeo.140...83Z
+             Bull. Obs. Astron. Belgrade #140, 83, 1989                                                             
+
+------------------------------------------------------------------------------------------------------------------------
+
