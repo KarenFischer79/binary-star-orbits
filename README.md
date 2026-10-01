@@ -21,6 +21,12 @@ another application, Control-click it, choose **Open**, and then choose
 
 ## Terminal use
 
+Install required packages with:
+
+</> bash
+python3 -m pip install -r requirements.txt
+
+
 ```bash
 python3 orbits.py "/path/to/wds16289+1825_edit.txt" --show
 ```

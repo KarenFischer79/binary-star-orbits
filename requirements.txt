@@ -1,0 +1,4 @@
+# Dependencies for orbits.py (including orbit optimization).
+numpy
+matplotlib
+scipy
